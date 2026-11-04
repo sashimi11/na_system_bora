@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/na_system_bora.iml" filepath="$PROJECT_DIR$/na_system_bora.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/na_system_bora_android.iml" filepath="$PROJECT_DIR$/android/na_system_bora_android.iml" />
-    </modules>
-  </component>
-</project>

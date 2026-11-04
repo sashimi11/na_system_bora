@@ -1,0 +1,18 @@
+name : na_system_bora
+services:
+
+  admin:
+    build: 
+      context: ./admin
+      dockerfile: Dockerfile
+    container_name: na_admin_bora
+    ports:
+    - "190:80"
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: na_client_bora
+    ports:
+    - "191:80"
